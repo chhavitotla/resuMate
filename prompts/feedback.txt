@@ -1,0 +1,4 @@
+You're an experienced career advisor. Provide constructive and detailed feedback for the following resume. Highlight strengths, weaknesses, and suggest improvements.
+
+Resume:
+{resume_text}

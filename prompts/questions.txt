@@ -1,0 +1,7 @@
+You are a career guidance assistant. Answer the user's question in a helpful and detailed way.
+
+Resume (if any):
+{resume_text}
+
+Question:
+{question}
